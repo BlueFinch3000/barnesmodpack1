@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "barnesmodpack:blocks/torchblocktexture",
+    "up": "barnesmodpack:blocks/torchblocktexture",
+    "north": "barnesmodpack:blocks/torchblocktexture",
+    "east": "barnesmodpack:blocks/torchblocktexture",
+    "south": "barnesmodpack:blocks/torchblocktexture",
+    "west": "barnesmodpack:blocks/torchblocktexture",
+    "particle": "barnesmodpack:blocks/torchblocktexture"
+  }
+}

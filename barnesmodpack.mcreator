@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "TorchBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.barnesmodpack.torch_block": "Torch Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "barnesmodpack",
+    "modName": "BarnesModpack",
+    "version": "1.0.0",
+    "author": "ronni, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.barnesmodpack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

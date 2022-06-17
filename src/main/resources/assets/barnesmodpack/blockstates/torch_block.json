@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "barnesmodpack:block/torch_block"
+    }
+  }
+}
